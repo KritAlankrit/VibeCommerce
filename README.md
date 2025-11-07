@@ -74,10 +74,13 @@ npm start
 ### 3. Screenshots
 
 * **Product Page**
+  
 ![alt text](image.png)
 
 * **Cart Sidebar**
+  
 ![alt text](image-1.png)
 
-* **CHeckout Modal**
+* **Checkout Modal**
+  
 ![alt text](image-2.png)
